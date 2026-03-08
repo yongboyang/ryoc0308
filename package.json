@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@azure/identity": "^4.13.0",
     "@azure/storage-blob": "^12.31.0",
     "@tailwindcss/typography": "^0.5.19",
     "gray-matter": "^4.0.3",
